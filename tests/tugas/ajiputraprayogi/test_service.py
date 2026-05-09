@@ -1,5 +1,5 @@
 import unittest
-from .service import hitung_luas
+from src.tugas.ajiputraprayogi.service import hitung_luas
 
 class TestService(unittest.TestCase):
     def test_hitung_luas(self):
